@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  boilerplate-american-british-english-translator-api:
+  boilerplate-info-sec-api:
     build:
       context: ../..
       dockerfile: ./Dockerfile
